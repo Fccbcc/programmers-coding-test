@@ -92,7 +92,7 @@
 ### Level 2 👨🏻‍💻(풀이 중..)
 
 - 전체 문제 수: 65문제
-- 풀이 문제 수: 64문제
+- 풀이 문제 수: 63문제
 
 | 번호 | 문제 출처 | 풀이 |
 | --- | ------- | --- |
@@ -149,17 +149,16 @@
 | 51 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [최솟값 만들기.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/최솟값-만들기&12941&.js) |
 | 52 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [카펫.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/카펫&42842&.js) |
 | 53 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [쿼드압축 후 개수 세기.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/쿼드압축-후-개수-세기&68936&.js) |
-| 54 | [쿼드압축 후 개수 세기.js](https://school.programmers.co.kr/learn/courses/30/lessons/undefined) | [쿼드압축 후 개수 세기.js.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/쿼드압축-후-개수-세기.js) |
-| 55 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/큰-수-만들기&42883&.js) |
-| 56 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/타겟-넘버&43165&.js) |
-| 57 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [튜플.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/튜플&64065&.js) |
-| 58 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [프린터.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/프린터&42587&.js) |
-| 59 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [피로도.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/피로도&87946&.js) |
-| 60 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [피보나치 수.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/피보나치-수&12945&.js) |
-| 61 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [하노이의 탑.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/하노이의-탑&12946&.js) |
-| 62 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [행렬 테두리 회전하기.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/행렬-테두리-회전하기&77485&.js) |
-| 63 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [행렬의 곱셈.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/행렬의-곱셈&12949&.js) |
-| 64 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [후보키.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/후보키&42890&.js) |
+| 54 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/큰-수-만들기&42883&.js) |
+| 55 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/타겟-넘버&43165&.js) |
+| 56 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [튜플.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/튜플&64065&.js) |
+| 57 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [프린터.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/프린터&42587&.js) |
+| 58 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [피로도.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/피로도&87946&.js) |
+| 59 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [피보나치 수.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/피보나치-수&12945&.js) |
+| 60 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [하노이의 탑.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/하노이의-탑&12946&.js) |
+| 61 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [행렬 테두리 회전하기.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/행렬-테두리-회전하기&77485&.js) |
+| 62 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [행렬의 곱셈.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/행렬의-곱셈&12949&.js) |
+| 63 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [후보키.js](https://github.com/codeisneverodd/programmers-coding-test/blob/main/level-2/후보키&42890&.js) |
 
 ### Level 3 👨🏻‍💻(풀이 중..)
 
