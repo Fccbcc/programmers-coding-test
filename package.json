@@ -4,7 +4,7 @@
   "description": "🌱 프로그래머스의 [코딩테스트 문제]",
   "type": "module",
   "scripts": {
-    "build": "node ./utils/build.js",
+    "build": "node ./utils/rename.js && node ./utils/build.js",
     "prepare": "husky install"
   },
   "repository": {
